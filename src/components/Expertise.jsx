@@ -141,24 +141,6 @@ export default function Expertise() {
                   ))}
                 </div>
               </div>
-
-              {/* Bottom Row: Metric Highlight + Signature Circular Dark Green Arrow */}
-              <div className="mt-8 pt-5 border-t border-slate-100 flex items-center justify-between gap-4">
-                <div className="flex items-center gap-2">
-                  <span className="inline-block w-2 h-2 rounded-full bg-emerald-500 animate-pulse" />
-                  <span className="text-xs font-semibold text-slate-600">
-                    {domain.metric}
-                  </span>
-                </div>
-
-                {/* Signature circular dark action button matching Projects */}
-                <div
-                  className="w-10 h-10 sm:w-11 sm:h-11 rounded-full bg-[#18392F] text-emerald-300 flex items-center justify-center transition-all duration-300 group-hover:bg-[#F59E0B] group-hover:text-slate-950 group-hover:scale-110 shadow-sm"
-                  title={domain.title}
-                >
-                  <FiArrowRight className="text-base font-bold transition-transform duration-300 group-hover:translate-x-0.5" />
-                </div>
-              </div>
             </div>
           ))}
         </div>

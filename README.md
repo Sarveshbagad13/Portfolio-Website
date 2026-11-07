@@ -6,8 +6,6 @@ A modern, high-performance personal portfolio built with **React 19**, **Vite**,
 
 ## ✨ Features
 
-- **Semicircular Arc Project Carousel**: A continuous sliding project carousel arranged along a curved dome arc with tangential rotation and interactive case study modals.
-- **Glass Lens Cursor**: Hardware-accelerated frosted glass follower with precision pinpoint targeting and tactile hover feedback.
 - **Case Study & GitHub Repository Explorer**: Detailed modal popups with metrics, architectural highlights, and live links.
 - **Working Contact Form**: Live email delivery straight to inbox via Web3Forms API with real-time submission feedback.
 - **Optimized Performance**: Zero layout thrashing, throttled RAF scroll listeners, and responsive design across all viewports.
@@ -19,7 +17,7 @@ A modern, high-performance personal portfolio built with **React 19**, **Vite**,
 - **Frontend**: React 19, Tailwind CSS v4, Vite 8
 - **Icons**: React Icons (`react-icons/fi`, `react-icons/fa`, `react-icons/si`)
 - **Forms & Email**: Web3Forms API
-- **Deployment**: Vercel / Netlify / GitHub Pages ready
+- **Deployment**: Vercel
 
 ---
 
